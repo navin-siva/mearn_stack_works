@@ -1,0 +1,12 @@
+div{
+    width: 23%;
+    height: 300px;
+    border: brown solid 3px;
+
+}
+body{
+background-image: url(./images/apj.abdulkalam.webp);
+/* background-size: cover; */
+background-repeat: no-repeat;   
+/* crops to original size */
+}

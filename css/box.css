@@ -1,0 +1,126 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    margin-left: 720px;
+}
+div{
+  
+    width: 200px;
+    height: 300px;
+ 
+}
+#b1{
+    
+        background-color: rgb(226, 48, 48);
+       
+        margin-top: 100px;
+        margin-left: 420px;
+    }
+
+#b2{
+    background-color:rgb(147, 216, 176);
+    margin-left: 630px;
+    margin-top: -300px;
+}
+#b3{
+    background-color: blueviolet;
+    margin-left: 840px;
+    margin-top: -300px;
+}
+#b4{
+    background-color: burlywood;
+    margin-left: 1050px;
+    margin-top: -300px;
+}
+#b5{
+    background-color: coral;
+    margin-left: 1260px;
+    margin-top: -300px;
+}
+#b6{
+    background-color: cyan;
+    margin-left: 210px;
+    margin-top: 10px;
+}
+#b7{
+    background-color: darkolivegreen;
+    margin-left: 420px;
+    margin-top: -300px;
+}
+#b8{
+    background-color: pink;
+    margin-left: 630px;
+    margin-top: -300px;
+}
+#b9{
+    background-color: royalblue;
+    margin-left: 840px;
+    margin-top: -300px;
+}
+#b10{
+    background-color: slateblue;
+    margin-left: 1050px;
+    margin-top: -300px;
+}
+#b11{
+    background-color: tomato;
+    margin-left: 1260px;
+    margin-top: -300px;
+
+}
+#b12{
+    background-color: wheat;
+    margin-left: 1470px;
+    margin-top: -300px;
+}
+#b13{
+    background-color: orchid;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+#b14{
+    background-color: lightgray;
+    margin-left: 210px;
+    margin-top: -300px;
+}
+#b15{
+    background-color: lightsteelblue;
+    margin-left: 420px;
+    margin-top: -300px;
+
+}
+#b16{
+    background-color: limegreen;
+    margin-left: 630px;
+    margin-top: -300px;
+
+}
+#b17{
+    background-color: mediumseagreen;
+    margin-left: 840px;
+    margin-top: -300px;
+}
+#b18{
+    background-color: mistyrose;
+    margin-left: 1050px;
+    margin-top: -300px;
+
+}
+#b19{
+    background-color: lightseagreen;
+    margin-left: 1260px;
+    margin-top: -300px;
+
+}
+#b20{
+    background-color: lightyellow;
+    margin-left: 1470px;
+    margin-top: -300px;
+}
+#b21{
+    background-color: lightsalmon;
+    margin-left: 1680px;
+    margin-top: -300px;
+}

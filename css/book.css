@@ -1,0 +1,22 @@
+div{
+    width: 23%;
+    background-color: rgb(8, 8, 8);
+    float: left;
+    border: rgb(139, 129, 129) 2px solid;
+    border-radius: 15px;
+    height: 500px;
+    color: white;
+}
+img{
+    width: 80%;
+    height: 200px;
+    border-radius: 3px;
+    margin-left: 33px;
+
+}h3{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    
+}
